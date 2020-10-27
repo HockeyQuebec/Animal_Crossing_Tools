@@ -1,0 +1,80 @@
+Bitterling: Sale price 900
+chub: Sale price 200
+Crucian carp: Sale price 160
+hazel: Sale price 240
+carp: Sale price 300
+Koi carp: Sale price 3,200
+Goldfish: Sale price 1,300
+Telescopic eye: Sale price 1,300
+Ranchu: Sale price 4,500
+Killifish: Sale price 300
+Crayfish: Sale price 200
+Soft turtle: Sale price 3,750
+Snapping turtle: Sale price 5,000
+tadpole: Sale price 100
+frog: Sale price 120
+River goby: Sale price 400
+Loach: Sale price 400
+Catfish: Sale price 800
+Snake head: Sale price 5,500
+Sunfish: Sale price 180
+Perch: Sale price 300
+perch: Sale price 320
+Tilapia: Sale price 800
+pike: Sale price 1,800
+Stint: Sale price 400
+Ayu: Sale price 900
+Masulachs: Sale price 1,000
+char: Sale price 3,800
+Gold trout: Sale price 15,000
+Huchen: Sale price 15,000
+salmon: Sale price 700
+King salmon: Sale price 1,800
+Wool hand crab: Sale price 2,000
+guppy: Sale price 1,300
+Absorbent barbel: Sale price 1,500
+Scalar: Sale price 3,000
+Fighting fish: Sale price 2,500
+Neon tetra: Sale price 500
+Rainbow fish: Sale price 800
+Piranha: Sale price 2,500
+Arowana: Sale price 10,000
+Salmon tetra: Sale price 15,000
+Bream: Sale price 6,000
+Arapaima: Sale price 10,000
+Rake: Sale price 4,000
+sturgeon: Sale price 10,000
+Sea angel: Sale price 1,000
+Seahorse: Sale price 1,100
+Clownfish: Sale price 650
+Pallet surgeonfish: Sale price 1,000
+Butterfly fish: Sale price 1,000
+Napoleon fish: Sale price 10,000
+Lionfish: Sale price 500
+Blowfish: Sale price 5,000
+Hedgehog fish: Sale price 250
+anchovy: Sale price 200
+mackerel: Sale price 150
+Beakfish: Sale price 5,000
+Sea bass: Sale price 400
+Kaiserschnapper: Sale price 3,000
+dab: Sale price 30
+flounder: Sale price 800
+Squid: Sale price 500
+Moray eel: Sale price 2,000
+Nasal moray: Sale price 600
+tuna: Sale price 7,000
+marlin: Sale price 10,000
+Prickly mackerel: Sale price 4,500
+Gold mackerel: Sale price 6,000
+Sunfish: Sale price 4,000
+Rays: Sale price 3,000
+Saw shark: Sale price 12,000
+Hammerhead shark: Sale price 8,000
+Shark: Sale price 15,000
+Whale shark: Sale price 13,000
+Ship keeper: Sale price 1,500
+Frogfish: Sale price 2,500
+Belt fish: Sale price 9,000
+Glass head fish: Sale price 15,000
+Coelacanth: Sale price 15,000
