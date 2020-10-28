@@ -1,0 +1,159 @@
+Common Butterfly	160	Flowers
+Yellow Butterly	160	Flying
+Tiger Butterfly	240	Flying
+Peacock Butterfly	2500	Rare flowers
+Common Bluebottle	300	Flying
+Paper Kite Butterfly	1000	Flying
+Great Purple Emperor	3000	Flying
+Monarch Butterfly	140	Flying
+Emperor Butterfly	4000	Flying
+Agrias Butterfly	3000	Flying
+Rajah Brookes Birdwing	2500	Rare flowers
+Queen Alexandras Birdwing	4000	Flying
+Moth	130	Lights
+Atlas Moth	3000	Trees
+Madagascan Sunset Moth	2500	Flying
+Long Locust	200	Grass
+Migratory Locust	200	Grass
+Rice Grasshopper	1600	Grass
+Grasshopper	160	Grass
+Cricket	130	Grass
+Bell Cricket	430	Grass
+Mantis	430	Flowers
+Orchid Mantis	2400	Flowers
+Honeybee	200	Flowers
+Wasp	2500	Shake trees
+Brown Cicada	250	Trees
+Robust Cicada	300	Trees
+Giant Cicada	500	Trees
+Walker Cicada	400	Trees
+Evening Cicada	550	Trees
+Cicada Shell	10	Trees
+Red Dragonfly	180	Flying
+Darner Dragonfly	230	Flying
+Banded Dragonfly	230	Flying
+Damselfly	500	Flying
+Firefly	300	Freshwater
+Mole Cricket	500	Underground
+Pondskater	130	Pond/River
+Diving Beetle	800	Pond/River
+Giant Water Bug	2000	Pond/River
+Stinkbug	120	Flowers
+Man-faced Stink Bug	1000	Flowers
+Ladybug	200	Flowers
+Tiger Beetle	1000	Grass
+Jewel Beetle	2400	Trees
+Citrus Long-horned Beetle	350	Tree stumps
+Rosalia Batesi Beetle	3000	Tree stumps
+Blue Weevil Beetle	800	Trees
+Violin Beetle	450	Trees
+Dung Beetle	2500	Grass
+Earth-boring Dung Beetle	300	Grass
+Scarab Beetle	10000	Trees
+Drone Beetle	200	Trees
+Goliath Beetle	8000	Trees
+Saw Stag	2000	Trees
+Miyama Stag	1000	Trees
+Giant Stag	10000	Trees
+Rainbow Stag	6000	Trees
+Cyclommatus Stag	8000	Trees
+Golden Stag	12000	Trees
+Giraffe Stag	12000	Trees
+Horned Dynastid	1350	Trees
+Horned Atlas	8000	Trees
+Horned Elephant	8000	Trees
+Horned Hercules	12000	Trees
+Walking Stick	600	Trees
+Walking Leaf	600	Ground
+Bagworm	600	Shake trees
+Ant	80	Rotten fruit
+Hermit Crab	1000	Beach
+Wharf Roach	200	On shore rocks
+Fly	60	Rotten fruit
+Mosquito	130	Flying
+Flea	70	On villagers
+Snail	250	On rocks while raining
+Pill Bug	250	Hit rocks
+Centipede	430	Hit rocks
+Spider	600	Shake trees
+Tarantula	8000	Ground
+
+agrias butterfly:  3000: flying
+ant: 80 rotten:  fruit
+atlas moth:  3000: trees
+bagworm:  600: shake trees
+banded dragonfly:  230: flying
+bell cricket:  430: grass
+blue weevil beetle:  800: trees
+brown cicada:  250: trees
+centipede:  430: hit: rocks
+cicada shell:  10: trees
+citrus long-horned beetle:  350: tree: stumps
+common bluebottle:  300: flying
+common butterfly:  160: flowers
+cricket: 130:  grass
+cyclommatus stag:  8000: trees
+damselfly:  500: flying
+darner dragonfly:  230: flying
+diving beetle:  800: pond/river
+drone beetle:  200: trees
+dung beetle:  2500: grass
+earth-boring:  dung: beetle: 300: grass
+emperor butterfly:  4000: flying
+evening cicada:  550: trees
+firefly: 300:  freshwater
+flea:  70: on: villagers
+fly:  60: rotten: fruit
+giant cicada:  500: trees
+giant stag:  10000: trees
+giant water bug:  2000: pond/river
+giraffe stag:  12000: trees
+golden stag:  12000: trees
+goliath beetle:  8000: trees
+grasshopper:  160: grass
+great purple emperor:  3000: flying
+hermit crab:  1000: beach
+honeybee:  200: flowers
+horned atlas:  8000: trees
+horned dynastid:  1350: trees
+horned elephant:  8000: trees
+horned hercules:  12000: trees
+jewel beetle:  2400: trees
+ladybug:  200: flowers
+long locust:  200: grass
+madagascan sunset moth:  2500: flying
+man-faced stink bug:  1000: flowers
+mantis:  430: flowers
+migratory locust:  200: grass
+miyama stag:  1000: trees
+mole cricket:  500: underground
+monarch butterfly:  140: flying
+mosquito:  130: flying
+moth:  130: lights
+orchid mantis:  2400: flowers
+paper kite butterfly:  1000: flying
+peacock butterfly:  2500: rare: flowers
+pill bug:  250: hit: rocks
+pondskater:  130: pond/river
+queen alexandras birdwing : 4000: flying
+rainbow stag:  6000: trees
+rajah brookes birdwing:  2500: rare: flowers
+red dragonfly:  180: flying
+rice grasshopper:  1600: grass
+robust cicada:  300: trees
+rosalia batesi beetle:  3000: tree: stumps
+saw stag:  2000: trees
+scarab beetle:  10000: trees
+snail:  250: on: rocks: while: raining
+spider:  600: shake: trees
+stinkbug:  120: flowers
+tarantula: 8000: ground
+tiger beetle: 1000: grass
+tiger butterfly: 240: flying
+violin beetle: 450: trees
+walker cicada: 400: trees
+walking leaf: 600: ground
+walking stick: 600: trees
+wasp: 2500: shake: trees
+wharf roach: 200: on: shore: rocks
+yellow butterly: 160: flying

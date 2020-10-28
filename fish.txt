@@ -1,3 +1,5 @@
+
+
 Bitterling: Sale price 900
 chub: Sale price 200
 Crucian carp: Sale price 160
@@ -78,3 +80,215 @@ Frogfish: Sale price 2,500
 Belt fish: Sale price 9,000
 Glass head fish: Sale price 15,000
 Coelacanth: Sale price 15,000
+
+
+
+
+Anchovy:Ocean	200
+Barred: Knifejaw	Ocean	5,000
+Barreleye:	Ocean	15,000
+Betta Fish:	River	2,500
+Bitterling:	River	900
+Black Bass:	River	400
+Bluegill	River	580
+Blue Marlin	Pier	10,000
+Carp	Pond/River	300
+Cherry Salmon	Clifftop River	1,000
+Clown Fish	Ocean	650
+Coelacanth	Ocean (Rain)	15,000
+Crawfish	Pond	200
+Crucian Carp	River	160
+Dab	Ocean	300
+Dace	River	240
+Football Fish	Ocean	2,500
+Freshwater Goby	River	400
+Goldfish	Pond	1,300
+Horse Mackerel	Ocean	150
+Killifish	Pond	300
+Koi	Pond	4,000
+Loach	River	400
+Neon Tetra	River	500
+Oarfish	Ocean	9,000
+Oliver Flounder	Ocean	800
+Pale Chub	River	200
+Pop-eyed Goldfish	Pond	1,300
+Ranchu Goldfish	Pond	4,500
+Red Snapper	Ocean	3,000
+Sea Bass	Ocean	400
+Sea Butterfly	Ocean	1,000
+Seahorse	Ocean	1,100
+Squid	Ocean	500
+Stringfish	Clifftop River	15,000
+Sturgeon 	River mouth	10,000
+Surgeonfish	Ocean	1,000
+Tadpole	Pond	100
+Tuna	Pier/Ocean	7,000
+Yellow Perch	River	300
+Zebra Turkeyfish	Ocean	500
+
+
+Agrais Butterfly: Found	Flying: Sale price 3,000
+Bagworm: Found by Shaking Tree: Sale price 600
+Centipede: Found by Hitting a Rock:	Sale price 300
+Citrus Long-horned Beetle: Found in Tree Stump:	Sale price 350
+Common Bluebottle: Found Near Trees: Sale price 300
+Common Butterfly: Found Near Trees:	Sale price 160
+Darner Dragonfly: Found Near Trees:	Sale price 230
+Emperor Butterfly: Found Near Trees: Sale price 4,000
+Hermit Crab: Found on Beach: Sale price 1,000
+Honeybee: Found in Grass: Sale price 200
+Ladybug: Found on Flowers:	Sale price 200
+Long Locust: Found on Grass: Sale price 200
+Madagascan Sunset Moth:	Found Near Trees: Sale price 2,500
+Man-Faced Stink Bug: Found on Flowers: Sale price 1,000
+Mantis: Found on Flowers: Sale price  430
+Mole Cricket: Found Underground: Sale price 500
+Moth: Found Near lighted area at night:	Sale price 130
+Orchid Mantis: Found on Flowers (White Only): Sale price 2,400
+Paper Kite Butterfly: Found Near trees:	Sale price 1,000
+Peacock Butterfly: Found Near trees: Sale price 2,500
+Pill Beetle: Found on Grass: Sale price 250
+Pill Bug: Found by Hitting a Rock: Sale price 250
+Rajah Brooke’s Birdwing: Found Near Trees: Sale price 2,500
+Snail: Found on Rocks (Rain): Sale price 250
+Spider:	Found by Shaking a Tree: Sale price 480
+Stinkbug: Found on Flowers: Sale price 120
+Tiger Beetle: Found on the Ground: Sale price 1,500
+Tarantula: Found on the Ground (Night):	Sale price 8,000
+Tiger Butterfly: Found Near trees: Sale price 240
+Wasp: Found by Shaking trees: Sale price 2500
+Wharf Roach: Found on Beaches and Rocks: Sale price 200
+Yellow Butterfly: Found Near trees: Sale price 160
+
+Bolded items are worth 1,000+ Bells
+
+Materials
+Material	Price
+Clay	100
+Clump of Weeds	10
+Gold Nugget	10,000
+Hardwood	60
+Iron Nugget	375
+Softwood	60
+Stone	75
+Tree Branch	5
+Wood	75
+
+
+Tools
+Tool	Price
+Axe	625
+Fishing Rod	600
+Flimsy Axe	200
+Flimsy Fishing Rod	100
+Flimsy Net	100
+Flimsy Watering Can	200
+Net 	600
+Shovel	600
+Slingshot	225
+Stone Axe	560
+Watering Can	600
+
+Seashells
+Seashell	Where to Catch	Price
+Conch	Beach	700
+Coral	Beach	500
+Cowrie	Beach	60
+Giant Clam	Beach	900
+Manila Clam	Beach, dig with shovel (crafts into fishing bait)	100
+Sand Dollar	Beach	120
+Sea Snails 	Beach	180
+Venus Comb	Beach	300
+
+Fruit
+Your Islands Fruit Sold On Your Island	Price
+Apples	100
+Cherries	100
+Coconut	250
+Oranges	100
+Peaches	100
+Pears	100
+Non-Native Fruit (Fruit Different Than Your Islands Fruit)
+Apples	500
+Cherries	500
+Coconut	250
+Oranges	500
+Peaches	500
+Pears	500
+
+Furniture
+Item	Price
+Cool-paint Flooring	550
+Hedge Standee	600
+Long Bathtub	1,950
+Natural Garden Chair	2,220
+Nutcracker	1,200
+Pine Wood Flooring	625
+Portable Radio	375
+Throwback Mitt Chair	350
+Throwback Race-car Bed	950
+Stone Table	200
+Wooden Chair	720
+Wooden Simple Bed	2,160
+Wooden Wardrobe	1,440
+
+Assessed Fossils
+Acanthostega	2,000
+Amber	1,200
+Ammonite	1,100
+Ankylo Skull	3,500
+Ankylo Tail	2,500
+Ankylo Torso	3,000
+Archaeopteryx	1,300
+Archelon Tail	3,500
+Australopith	1,100
+Brachio Chest	5,500
+Brachio Pelvis	5,000
+Coprolite	1,100
+Deinony Tail	2,500
+Deinony Torso	3,000
+Dimetrodon Skull	5,500
+Dinosaur Track	1,000
+Diplo Neck	4,500
+Diplo Pelvis	4,500
+Diplo Skull	5,000
+Diplo Tail	5,000
+Dunkleosteus	3,500
+Eusthenopteron	2,000
+Iguanodon Skull	4,000
+Iguanodon Tail	3,000
+Juramaia	1,500
+Megacero Skull	4,500
+Megacero Tail	3,500
+Mammoth Skull	3,000
+Mammoth Torso	2,000
+Myllokunmingia	1,500
+Pachysaurus Tail	3,500
+Parasaur Tail	2,500
+Plesio Body	4,500
+Plesio Tail	4,500
+Ptera Body	4,000
+Ptera Wing (Left)	4,500
+Quetzal Torso	4,500
+Shark Tooth Pattern	1,000
+Stego Skull	5,000
+Stego Torso	4,500
+Spino Skull	4,000
+Spino Tail	2,500
+T. Rex Torso	5,500
+Tricera Torso	5,000
+Trilobite	1,300
+
+DIY Recipes
+Recipe	Price
+Hedge Standee	200
+Log Bed	200
+Stone Table 	200
+
+Miscellaneous
+Item	Where to Find	Price
+Fossil	X marks on the ground	100
+Tire	Fishing	20?
+Tire Stack	Fishing-> Crafting	60
+Wasp Nest	Shaking a tree (used to make medicine)	300
+Boot	Fishing	10

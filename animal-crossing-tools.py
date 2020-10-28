@@ -1,4 +1,5 @@
 from fuzzysearch import find_near_matches
+import re
 
 bells_you_have_str = input("How many bells? ")
 bells_you_have = int(bells_you_have_str)
@@ -6,7 +7,7 @@ bells_you_have = int(bells_you_have_str)
 while True:
 
     menu_choice = input("\n" + "Choose an option:\n 1) compute years\n 2) compute max interest \n 3) Fish prices \n "
-                               "4) Exit \n")
+                               "4) Alphabetize \n" "5) Exit")
 
     if menu_choice == "1":
         interest_year = 0.00006
@@ -58,6 +59,9 @@ while True:
         print("You will have " + str(round(bells_you_have + straight_there_interst)) + " bells")
 
     elif menu_choice == "3":
+        menu_choice_items = input("\n" + "Choose an option:\n 1) Fish \n 2) Tools \n 3) insects \n "
+                                         "4) Fruit \n" "5) Furniture \n" "6) Assessed Fossils \n" "7) DIY Recipes \n"
+                                         "8) Miscellaneous \n" "9) Materials \n" "10AlphabetizeAlphabetize) Seashells \n")
         fish = input("What fish?")
         lower_fish = fish.lower()
         print('\n')
@@ -69,6 +73,21 @@ while True:
                 match = find_near_matches(lower_fish, lower, max_l_dist=0)
                 if match:
                     print(stripped)
+                    print(lower)
+
+    elif menu_choice == "4":
+        print('\n')
+        abc = [""]
+        insects = open("insects.txt", "a")
+        with open('insects.txt', 'r') as f:
+            for line in f:
+                stripped = line.strip()
+                lower = stripped.lower()
+                end = (re.sub(r"\s+", ":", lower))
+                abc.append(end)
+        final = str(sorted(abc))
+        insects.write(str(final))
+        insects.close()
 
     else:
         print("Exit")
